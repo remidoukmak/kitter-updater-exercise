@@ -1,2 +1,2 @@
 # kitter-updater-exercise
-Created with CodeSandbox
+To use: `npm install && npm run start`

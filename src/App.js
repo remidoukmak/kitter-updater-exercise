@@ -1,11 +1,11 @@
 import "./styles.css";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import meowsData from "./meows.json";
 import Meow from "./components/Meow";
 import Timeline from "./components/Timeline";
 
 export default function App() {
-  const [meows, setMeows] = useState(meowsData);
+  const [meows, setMeows] = useState([]);
   return (
     <div className="App">
       <h1>Kitter</h1>
