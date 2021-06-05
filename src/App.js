@@ -1,7 +1,5 @@
 import "./styles.css";
 import { useState, useEffect } from "react";
-import meowsData from "./meows.json";
-import Meow from "./components/Meow";
 import Timeline from "./components/Timeline";
 
 export default function App() {
