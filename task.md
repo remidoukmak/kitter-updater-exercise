@@ -1,7 +1,7 @@
 The task is to update our Kitter timeline
 by creating new Meows using useEffect and fetch
 
-1. Add a useEffect hook in App.js to fetch data from the following API endpoint: https://cyf-cors-api.herokuapp.com/meow. Use this data
+1. Add a useEffect hook in App.js to fetch data from the following API endpoint: https://cyf-cors-api.herokuapp.com/meows. Use this data
    to set the meows in App.js.
 
 2. Create a new component called CreateMeow
