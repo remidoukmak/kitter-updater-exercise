@@ -89,3 +89,14 @@
 .Timeline .Meow {
   margin: 2rem auto;
 }
+.CreateMeow {
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: center;
+  padding: 2rem 3rem;
+  width: 500px;
+}
